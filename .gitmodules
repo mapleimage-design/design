@@ -1,0 +1,18 @@
+[submodule "maple-design"]
+	path = maple-design
+	url = https://github.com/Maple-Team/maple-design.git
+[submodule "react-design"]
+	path = react-design
+	url = https://github.com/Maple-Team/maple-design.git
+[submodule "vue3-vite"]
+	path = vue3-vite
+	url = https://github.com/mapleimage-design/vue3-vite.git
+[submodule "vue2-vite"]
+	path = vue2-vite
+	url = https://github.com/mapleimage-design/vue2-vite.git
+[submodule "vue2-webpack"]
+	path = vue2-webpack
+	url = https://github.com/mapleimage-design/vue2-webpack.git
+[submodule "vue3-webpack"]
+	path = vue3-webpack
+	url = https://github.com/mapleimage-design/vue3-webpack.git
